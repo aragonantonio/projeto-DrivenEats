@@ -56,7 +56,6 @@ body {
 .pratos {
   display: flex;
   align-items: center;
-  justify-content: space-around;
   overflow-x: scroll;
   height: 230px;
   margin-top: 17px;
