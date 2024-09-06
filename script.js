@@ -1,6 +1,6 @@
 let contador = 0;
 let selecionado = 0;
-let pedido = document.querySelector(".botao-fechar-pedido")
+
 
 function selecionarPrato(prato) {
   let pratoSelecionadoAntes = document.querySelector(".selecionado-prato")
