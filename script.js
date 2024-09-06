@@ -1,7 +1,6 @@
 let contador = 0;
 let selecionado = 0;
 
-
 function selecionarPrato(prato) {
   let pratoSelecionadoAntes = document.querySelector(".selecionado-prato")
   if (pratoSelecionadoAntes !== null) {
