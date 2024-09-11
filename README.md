@@ -1,8 +1,8 @@
 Aplicativo para pedidos de comida, com a possibilidade de selecionar 3 itens e enviar o pedido por whats app!!
 
-[drivenEats](https://github.com/user-attachments/assets/e1e1aa9a-8908-4300-9ab5-4ea6fa7009fd)
+![drivenEats](https://github.com/user-attachments/assets/fb6efc72-e372-4dc9-8789-f08046e0a350)
 
-Sobre: Com o aplicativo é possível:
+Com o aplicativo é possível:
 
 Selecionar o prato desejado;
 Selecionar a bebida desejada;
