@@ -2,7 +2,7 @@ Aplicativo para pedidos de comida, com a possibilidade de selecionar 3 itens e e
 
 ![drivenEats](https://github.com/user-attachments/assets/fb6efc72-e372-4dc9-8789-f08046e0a350)
 
-Com o aplicativo é possível:
+# Com o aplicativo é possível: #
 
 * Selecionar o prato desejado;
 * Selecionar a bebida desejada;
@@ -11,6 +11,6 @@ Com o aplicativo é possível:
 * Personaliza o painel de fechar pedido com as informações passadas na seleção;
 * Customiza uma mensagem no whats app baseado na seleção.
 
-Tecnologias:
+# Tecnologias: #
 
 HTML, CSS e JavaScript
