@@ -7,9 +7,9 @@ Aplicativo para pedidos de comida, com a possibilidade de selecionar 3 itens e e
 * Selecionar o prato desejado;
 * Selecionar a bebida desejada;
 * Selecionar a sobremesa desejada;
-* O botão de finalizar o pedido só é liberado quando os 3 itens foram selecionados;
-* Personaliza o painel de fechar pedido com as informações passadas na seleção;
-* Customiza uma mensagem no whats app baseado na seleção.
+* Liberar o botão de finalizar o pedido somente quando os 3 itens foram selecionados;
+* Personalizar o painel de fechar pedido com as informações passadas na seleção;
+* Customizar uma mensagem no whats app baseado na seleção.
 
 # Tecnologias: #
 
