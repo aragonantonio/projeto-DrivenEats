@@ -1,3 +1,5 @@
+Atividade para aprofundar conhecimentos sobre interatividade com Java Script.
+
 Aplicativo para pedidos de comida, com a possibilidade de selecionar 3 itens e enviar o pedido por whats app!
 
 ![drivenEats](https://github.com/user-attachments/assets/fb6efc72-e372-4dc9-8789-f08046e0a350)
